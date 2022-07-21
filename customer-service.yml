@@ -1,0 +1,4 @@
+service:
+  name: customers
+server:
+  port: 8202
