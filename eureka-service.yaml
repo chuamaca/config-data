@@ -1,6 +1,10 @@
 server:
   port: 8761
-  
+  address: localhost
+security:
+  basic:
+    enabled: false
+    
 eureka:
   instance:
     hostname: localhost
